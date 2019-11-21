@@ -6,7 +6,7 @@ public  class Animal {
         this.name = name;
         this.type = type;
     }
-
+#Making some changes
     public void sleep(){
         System.out.println("Keeping eyes closed");
     }

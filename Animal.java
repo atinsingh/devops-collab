@@ -15,4 +15,7 @@ public  class Animal {
         System.out.println("Printing all details");
     }
 
+    public static void printMe_Bobby(){
+        System.out.println("Printing detaila added by Bobby");
+    }
 }

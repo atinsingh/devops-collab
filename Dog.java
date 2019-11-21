@@ -18,4 +18,9 @@ public final class Dog extends Animal {
     public static void printMe(){
         System.out.println("Printing all details from dog");
     }
+
+    public void walk() {
+	System.out.println("Walking");
+    }
+
 }
